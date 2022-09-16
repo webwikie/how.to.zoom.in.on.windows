@@ -1,6 +1,7 @@
 # How to zoom in on windows
 
-[![how to zoom in on windows](redd.png)](https://github.com/webwikie/how.to.zoom.in.on.windows)
+[![how to zoom in on windows](redd.png)](https://icncomputer.com/how-to-zoom-in-on-windows/
+)
 
 
 Windows offers various ways to zoom in on your screen, allowing you to take a closer look at your items. We’ll show you how to zoom in and out on your photos, videos, web pages, and other items on your Windows 10 and Windows 11 PC.
